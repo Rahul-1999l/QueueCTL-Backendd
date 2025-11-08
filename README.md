@@ -15,6 +15,8 @@ Supports retries with exponential backoff and a **Dead Letter Queue (DLQ)** for 
 ---
 
 ## 🚀 Quick Start (Windows / CMD)
+**Author:** Rahul Pithani (Job Assignment 2025)
+
 
 ```bat
 python -m venv .venv
